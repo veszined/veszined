@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @veszined
-- 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python
 
 <!---
 veszined/veszined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
